@@ -54,7 +54,7 @@ main{
 
   section{
     flex: 4;
-    padding: 3rem;
+    padding: 2rem;
     background: #EEE;
   }
 
@@ -65,9 +65,13 @@ main{
       background: #FFF;
     }
 
+    .youtube iframe{
+      width: 100%;
+    }
+
   aside{
     flex: 1;
-    padding: 3rem;
+    padding: 2rem;
     background: #DDD;
   }
 
